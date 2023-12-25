@@ -12,8 +12,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   
+   git clone [https://github.com/yourusername/yourproject.git](https://github.com/ganeshtamil2003/VsCodeHelp_Assignment_Project.git)  
+                                                                (or)
+   Just Copy the Link to Clone from my repository.
+                        
 2. Install XAMPP:
       Download and install XAMPP on your machine.
 
