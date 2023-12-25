@@ -38,8 +38,9 @@ To run this project locally, follow these steps:
       http://localhost/projectFolderName/
       **Adjust the URL according to your project's folder structure.**
 
-If you have how to use the Project, See here -> Link
-##Note
+If you have how to use the Project, See here -> Link : https://youtu.be/hqQBvCQ_8L0
+
+***Note***
 **If you have to access the Admin panel**
 Doctor Id: 123
 password : 123
